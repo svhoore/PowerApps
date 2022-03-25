@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EntityRelationships xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EntityRelationship Name="business_unit_ah_githubtest" />
+  <EntityRelationship Name="lk_ah_githubtest_createdby" />
+  <EntityRelationship Name="lk_ah_githubtest_modifiedby" />
+  <EntityRelationship Name="owner_ah_githubtest" />
+  <EntityRelationship Name="team_ah_githubtest" />
+  <EntityRelationship Name="user_ah_githubtest" />
+</EntityRelationships>
