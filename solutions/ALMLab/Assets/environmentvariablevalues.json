@@ -1,0 +1,12 @@
+{
+  "environmentvariablevalues": {
+    "environmentvariablevalue": {
+      "@environmentvariablevalueid": "e6cf4dcc-e7b0-ec11-9840-000d3ab71b6c",
+      "environmentvariabledefinitionid": {
+        "schemaname": "ah_PowerAppsEnv"
+      },
+      "iscustomizable": "1",
+      "value": "prod"
+    }
+  }
+}

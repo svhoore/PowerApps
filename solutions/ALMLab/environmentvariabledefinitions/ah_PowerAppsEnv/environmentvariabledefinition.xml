@@ -1,0 +1,11 @@
+<environmentvariabledefinition schemaname="ah_PowerAppsEnv">
+  <defaultvalue>dev</defaultvalue>
+  <displayname default="PowerApps-Env">
+    <label description="PowerApps-Env" languagecode="1043" />
+  </displayname>
+  <introducedversion>1.0.0.0</introducedversion>
+  <iscustomizable>1</iscustomizable>
+  <isrequired>0</isrequired>
+  <secretstore>0</secretstore>
+  <type>100000000</type>
+</environmentvariabledefinition>
